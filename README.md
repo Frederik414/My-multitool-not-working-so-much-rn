@@ -1,2 +1,2 @@
 # My-multitool-not-working-so-much-rn
-ty if u used it
+but go to notepad++ or notepad and copy the TIGER.bat things in and save as batch file and open it
